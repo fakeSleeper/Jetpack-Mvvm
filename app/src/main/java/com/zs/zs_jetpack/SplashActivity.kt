@@ -18,7 +18,7 @@ import pub.devrel.easypermissions.EasyPermissions.PermissionCallbacks
 
 
 /**
- * 开屏页
+ *  开屏页
  * 权限：https://www.cnblogs.com/blosaa/p/9584348.html
  *
  * @author zs
